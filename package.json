@@ -64,6 +64,7 @@
     "zod": "^3.24.2"
   },
   "devDependencies": {
+    "@babel/generator": "^7.28.3",
     "@babel/parser": "^7.28.3",
     "@babel/traverse": "^7.28.3",
     "@eslint/js": "^9.19.0",
