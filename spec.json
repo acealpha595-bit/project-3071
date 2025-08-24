@@ -1,0 +1,138 @@
+{
+  "G3JHR6uQOQDr2xhx": {
+    "contentMarkdown": "**Page Header Section**\n- Main title: CalcSuites Sitemap\n- Descriptive subtitle explaining page purpose",
+    "categoryId": "17557705411172"
+  },
+  "GFDWD1i3Zs3lbR0S": {
+    "contentMarkdown": "Secondary call-to-action button with outline style and hover fill effect\n\n- Theme color: Blue outline with blue text (border-blue-600, text-blue-600)\n- Font: Semi-bold text with large size (text-lg)\n- Border radius style: Rounded corners (rounded-lg) with 2px border\n- Hover state: Fills with blue background and white text\n- Enhanced styling: Shadow effects (shadow-lg, hover:shadow-xl)\n- Interactive effects: Scale transform on hover (hover:scale-105)\n- Smooth transitions: 200ms duration for all animations\n- Padding: Generous horizontal/vertical spacing (px-8 py-4)\n- Link styling: No underline decoration",
+    "categoryId": "17557705411170"
+  },
+  "S9LwTbyAp9W49yLW": {
+    "contentMarkdown": "**Sitemap Page Layout**\n- Main container with gradient background\n- Centered content area with maximum width constraint\n- White card container with shadow effects",
+    "categoryId": "17557705411172"
+  },
+  "about-page-root": {
+    "contentMarkdown": "**About Page**\n- Header with navigation\n- Hero section with CalcSuites branding\n- Mission statement\n- Features grid\n- What we offer section\n- Why choose us section\n- Call to action\n- Footer with contact information",
+    "categoryId": "17557705411172"
+  },
+  "app-root": {
+    "contentMarkdown": "\nModern gradient background application design for CalcSuites calculator website\n\n- Theme color: Blue primary (blue-600), with gradients from blue-50 to indigo-100\n- Font: System font stack with clean, readable typography\n- Border radius style: Rounded corners with modern card-based layouts",
+    "categoryId": "17557705411170"
+  },
+  "bDtHuJmODHjRysEZ": {
+    "contentMarkdown": "**Smooth Scroll Navigation**\n\nWhen clicked, smoothly scrolls to the calculators section (#calculators-section) on the same page",
+    "categoryId": "17557705411171"
+  },
+  "brand-slogan": {
+    "contentMarkdown": "**Brand Slogan**\n- CalcSuites brand slogan text",
+    "categoryId": "17557705411172"
+  },
+  "brand-text-section": {
+    "contentMarkdown": "**Brand Section**\n- CalcSuites brand name\n- Slogan: \"Your Complete Calculator Toolkit\"",
+    "categoryId": "17557705411172"
+  },
+  "buck6lwAOjoQ0RyD": {
+    "contentMarkdown": "Primary call-to-action button with prominent blue styling\n\n- Theme color: Blue gradient (bg-blue-600 to hover:bg-blue-700)\n- Font: Semi-bold white text with large size (text-lg)\n- Border radius style: Rounded corners (rounded-lg)\n- Enhanced styling: Shadow effects (shadow-lg, hover:shadow-xl)\n- Interactive effects: Scale transform on hover (hover:scale-105)\n- Smooth transitions: 200ms duration for all animations\n- Padding: Generous horizontal/vertical spacing (px-8 py-4)",
+    "categoryId": "17557705411170"
+  },
+  "calculator-buttons-grid": {
+    "contentMarkdown": "**Quick Calculator Navigation Bar Design**\n\nCompact horizontal button layout with single-line display approach\n\n- Theme color: Blue gradient scheme (bg-blue-600, hover:bg-blue-700)\n- Font: Extra small text (text-xs) for compact display\n- Border radius style: Standard button radius with small padding (px-2 py-1)\n- Layout: Flex container with horizontal scroll on overflow\n- Spacing: Minimal gap (gap-1) between buttons\n- Responsive: Full text on desktop (md:inline), abbreviated on mobile\n- Icons: Small 12x12px icons (h-3 w-3) for compact appearance\n- Scroll behavior: Hidden scrollbar with smooth horizontal scrolling",
+    "categoryId": "17557705411170"
+  },
+  "calculator-links-container": {
+    "contentMarkdown": "\nHorizontal navigation bar with calculator quick access buttons\n\n- Theme color: Blue background matching logo (blue-600)\n- Font: System font with small size, white text\n- Border radius style: Rounded solid buttons",
+    "categoryId": "17557705411170"
+  },
+  "calculators-section": {
+    "contentMarkdown": "**Calculator Grid Section**\n\n- Section title: \"Popular Online Calculators\"\n- Age Calculator card\n- BMI Calculator card\n- Loan Calculator card\n- Currency Converter card\n- Date Difference card\n- Pregnancy Calculator card\n- Percentage Calculator card\n- Unit Converter card",
+    "categoryId": "17557705411172"
+  },
+  "ciN5NPUfHqVTQlpT": {
+    "contentMarkdown": "**XML Display Section**\n- Section title explaining XML format\n- Code block container with dark theme\n- Formatted XML sitemap structure display\n    - XML declaration\n    - URL set container\n    - Individual URL entries with metadata",
+    "categoryId": "17557705411172"
+  },
+  "contact-email-address": {
+    "contentMarkdown": "**Contact Email Address**\n- Primary contact email: calcsuites@gmail.com\n- Response time: Within 24 hours",
+    "categoryId": "content"
+  },
+  "contact-form": {
+    "contentMarkdown": "**Contact Form**\n- Full Name: Required, single line input\n- Email Address: Required, email validation\n- Subject: Required, single line input  \n- Message: Required, multi-line textarea\n- Submit Button\n- Form sends to: calcsuites@gmail.com",
+    "categoryId": "development"
+  },
+  "contact-page-root": {
+    "contentMarkdown": "**Contact Page**\n- Header with CalcSuites navigation\n- Hero section\n- Contact information section\n- Contact form for calcsuites.store\n- FAQ section\n- Footer",
+    "categoryId": "17557705411172"
+  },
+  "disclaimer-text": {
+    "contentMarkdown": "**Footer Disclaimer**\n- Disclaimer text about calculator accuracy and verification",
+    "categoryId": "17557705411172"
+  },
+  "e5TVVF9abcPOXw6G": {
+    "contentMarkdown": "**XML Sitemap Content**\n- XML declaration\n- URL entries for all calculator pages\n- Priority and change frequency metadata",
+    "categoryId": "17557705411172"
+  },
+  "footer": {
+    "contentMarkdown": "**Website Footer**\n\n- CalcHub Pro branding\n- Popular Calculators links column\n- More Tools links column\n- Company links column\n- Copyright notice",
+    "categoryId": "17557705411172"
+  },
+  "footer-contact-email": {
+    "contentMarkdown": "**Footer Contact Email**\n- Contact email: calcsuites@gmail.com",
+    "categoryId": "content"
+  },
+  "gOIQ8VJEYBTZnatL": {
+    "contentMarkdown": "**URL Listing Section**\n- Grid layout for URL entries\n- Individual URL cards with blue accent border\n- Each card contains page title link and full URL display",
+    "categoryId": "17557705411172"
+  },
+  "header": {
+    "contentMarkdown": "**Navigation Header**\n\n- CalcHub Pro logo with calculator icon\n- Home navigation link\n- About navigation link  \n- Contact navigation link",
+    "categoryId": "17557705411172"
+  },
+  "hero-section": {
+    "contentMarkdown": "**Hero Section**\n\n- Main headline: \"Free Online Calculators\"\n- Descriptive subtitle about calculator collection\n- Explore Calculators button\n- Learn More button",
+    "categoryId": "17557705411172"
+  },
+  "kIgadi5sm1BGm5ky": {
+    "contentMarkdown": "**Hero Section Call-to-Action Buttons**\n\n- Explore Calculators button (primary)\n- Learn More button (secondary)",
+    "categoryId": "17557705411172"
+  },
+  "privacy-page-root": {
+    "contentMarkdown": "**Privacy Policy Page**\n- Header with CalcSuites navigation\n- Hero section with Privacy Policy title\n- Comprehensive privacy policy content including:\n  - Introduction and commitment to privacy\n  - Information collection (automatic and voluntary)\n  - How information is used\n  - Cookies and tracking technologies\n  - Google AdSense disclosure\n  - Information sharing policies\n  - Data security measures\n  - User rights under privacy laws\n  - Contact information for privacy inquiries\n  - Policy change procedures\n- Footer with contact information",
+    "categoryId": "content"
+  },
+  "quick-calculator-links": {
+    "contentMarkdown": "**Quick Calculator Navigation Section**\n\n- Calculator buttons container\n- Eight calculator quick access buttons\n    - Age Calculator button with Calendar icon\n    - BMI Calculator button with Scale icon\n    - Loan Calculator button with DollarSign icon\n    - Currency Converter button with TrendingUp icon\n    - Date Difference button with Calendar icon\n    - Pregnancy Calculator button with Baby icon\n    - Percentage Calculator button with Percent icon\n    - Temperature Converter button with Thermometer icon",
+    "categoryId": "17557705411172"
+  },
+  "seo-content": {
+    "contentMarkdown": "**SEO Content Section**\n\n- Why Choose CalcHub Pro heading\n- Feature benefits description\n- Featured Calculator Categories heading\n    - Financial Calculators list item\n    - Health \u0026 Fitness list item\n    - Date \u0026 Time list item\n    - Unit Conversions list item",
+    "categoryId": "17557705411172"
+  },
+  "sitemap-route-element": {
+    "contentMarkdown": "**Sitemap XML Generator**\n- XML Declaration: Required, UTF-8 encoding\n- URL Set Container: Required, proper namespace\n- Homepage URL: Required, priority 1.0, weekly updates\n- Calculator URLs: Required, priority 0.9, monthly updates  \n- Static Page URLs: Required, variable priority, monthly/yearly updates\n- Dynamic Date: Required, auto-generated current date\n- Proper XML Structure: Required, valid sitemap format",
+    "categoryId": "17557705411173"
+  },
+  "sitemap-xml-display": {
+    "contentMarkdown": "**XML Sitemap Display**\n- XML declaration header\n- URL entries for all site pages with metadata\n- Monospace font formatting for readability\n- Clean white background display",
+    "categoryId": "17557705411172"
+  },
+  "sitemap-xml-route": {
+    "contentMarkdown": "**Sitemap XML Generator Route**\n\n- XML Document Structure: Required, UTF-8 encoding with proper XML declaration\n- URL Set Container: Required, sitemap namespace specification\n- Homepage Entry: Required, priority 1.0, weekly change frequency\n- Calculator Page Entries: Required, priority 0.9, monthly updates\n- Static Page Entries: Required, varying priority levels, appropriate frequencies\n- Dynamic Date Generation: Required, current date for lastmod field\n- Document Replacement: Required, replace entire HTML document with XML\n- Content Type Meta: Required, application/xml charset specification",
+    "categoryId": "17557705411173"
+  },
+  "temp-clear-button": {
+    "contentMarkdown": "**Clear Temperature Button**\nWhen clicked:\n- Clears temperature input field\n- Clears result display\n- Logs clearing action to console",
+    "categoryId": "interaction"
+  },
+  "temp-convert-button": {
+    "contentMarkdown": "**Convert Temperature Button**\nWhen clicked:\n- Validates temperature input is a valid number\n- Converts input from source unit to Celsius first\n- Converts from Celsius to target unit\n- Displays formatted result with unit symbol\n- Shows conversion summary\n- Logs conversion process to console",
+    "categoryId": "interaction"
+  },
+  "temp-converter-page": {
+    "contentMarkdown": "**Temperature Converter Page**\n- Header with CalcSuites navigation\n- Hero section with thermometer icon and title\n- Temperature converter calculator card with:\n  - Temperature input field\n  - From unit selector (Celsius, Fahrenheit, Kelvin, Rankine)\n  - To unit selector (Celsius, Fahrenheit, Kelvin, Rankine)\n  - Convert and Clear buttons\n  - Results display with conversion summary\n- Educational information cards:\n  - Conversion formulas reference\n  - Common temperature references\n- Back to calculators navigation\n- Footer with contact information",
+    "categoryId": "content"
+  },
+  "terms-page-root": {
+    "contentMarkdown": "**Terms of Service Page**\n- Header with CalcSuites navigation\n- Hero section with Terms of Service title\n- Comprehensive terms content including:\n  - Welcome and acceptance of terms\n  - Service description (list of calculators)\n  - Acceptable use policies\n  - Calculation accuracy disclaimer\n  - Intellectual property rights\n  - Privacy policy reference\n  - Advertising disclosure\n  - Limitation of liability\n  - Warranty disclaimers\n  - Termination policies\n  - Terms change procedures\n- Footer with contact information",
+    "categoryId": "content"
+  }
+}
