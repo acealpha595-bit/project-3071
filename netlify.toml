@@ -1,5 +1,5 @@
 [build]
-  command = "pnpm run build"
+  command = "pnpm run build && cp public/sitemap.xml dist/sitemap.xml"
   publish = "dist"
 
 [build.environment]
