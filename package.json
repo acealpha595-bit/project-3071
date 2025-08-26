@@ -67,6 +67,7 @@
     "@babel/generator": "^7.28.3",
     "@babel/parser": "^7.28.3",
     "@babel/traverse": "^7.28.3",
+    "@babel/types": "^7.28.2",
     "@eslint/js": "^9.19.0",
     "@types/node": "^22.13.4",
     "@types/react": "^18.3.1",
