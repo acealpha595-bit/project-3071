@@ -4,3 +4,9 @@
 
 [build.environment]
   NODE_VERSION = "20.19.0"
+
+[[redirects]]
+from = "/sitemap.xml"
+to = "/sitemap.xml"
+status = 200
+force = true
